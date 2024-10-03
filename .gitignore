@@ -1,2 +1,3 @@
 /.vs
-/BasicHTTPClient
+/BasicHTTPClient/bin
+/BasicHTTPClient/obj
